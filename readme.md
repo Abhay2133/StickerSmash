@@ -61,20 +61,3 @@ Feel free to contribute to this project by:
 * Reporting issues
 * Suggesting improvements
 * Adding new features
-
-### License
-
-This project is licensed under the MIT License.
-
-**Note:** Replace `your-username` with your actual GitHub username. You can also add more details about the project, such as specific libraries used, challenges faced during development, or future plans.
-
-**Additional Tips:**
-
-* Include screenshots or a short video demonstration of the app.
-* Provide clear instructions on how to run the app and any dependencies.
-* Consider adding a section on troubleshooting common issues.
-* Use code snippets and examples to illustrate key features.
-
-By following these guidelines, you can create a comprehensive and informative README file for your StickerSmash app.
- 
-**Would you like to add more details to the README, such as specific libraries used or challenges faced during development?** 
